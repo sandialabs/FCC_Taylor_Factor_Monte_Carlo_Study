@@ -5,7 +5,6 @@ Euler orientations and minimizing the average Taylor factor over a lateral
 shrinking ratio *q*.
 
 ## Repository structure
-.
 ├── LICENSE  
 ├── THIRD_PARTY_NOTICES.md  
 ├── Monte_Carlo_Taylor_Generator_Parallelized.m    # Driver script  
