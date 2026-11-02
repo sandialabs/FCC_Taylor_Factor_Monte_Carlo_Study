@@ -1,0 +1,15 @@
+@misc{Fietek2026TaylorFactorFCC,
+  author       = {Carter J. Fietek and Hojun Lim},
+  title        = {{FCC Taylor Factor Monte Carlo Study}},
+  year         = {2026},
+  note         = {MATLAB code under GPL-2.0-or-later}
+}
+
+@article{Bachmann2010MTEX,
+  author       = {F.~Bachmann and R.~Hielscher and H.~Schaeben},
+  title        = {MTEX – free and open source software toolbox for crystallographic texture analysis},
+  journal      = {Solid State Phenomena},
+  volume       = {160},
+  pages        = {63--68},
+  year         = {2010}
+}
